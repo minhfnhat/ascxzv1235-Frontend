@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market.",
+        "title": "Elevate Your Business with Cutting-Edge Solutions"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Business with Cutting-Edge Solutions",
+  "subtitle": "Unleash the potential of your enterprise with innovative and tailored strategies designed to drive success in today’s dynamic market."
+}
